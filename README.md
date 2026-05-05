@@ -23,5 +23,4 @@ A Customer Support Specialist and Web Hosting Expert based in Turkey.
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
 </p>
 
-### GitHub Stats:
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrepolatt6&show_icons=true&theme=dark)
+
