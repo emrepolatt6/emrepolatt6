@@ -2,19 +2,22 @@
 
 A Customer Support Specialist and Web Hosting Expert based in Turkey.
 
-- 🔭 I’m currently working at **Guzel Hosting** as a Level II  Support Operator.
+- 🔭 I’m currently working at **Güzel Hosting** as a **Level 1 Customer Support specialist**.
 - 🎓 I’m a student at **Anadolu University**.
 - ⚡ **Technical Skills:** WordPress troubleshooting, Server Configuration (IIS, Plesk, cPanel), and Email Security (SPF, DKIM, DMARC).
+- 🛠 **Network Management:** Experienced with **TP-Link Deco M4** mesh systems.
 - 🎮 **Hobbies:** Avid player of **FIFA (FC 23)** and **Metin2**.
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](SENIN_LINKEDIN_LINKIN)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/emre-polat-a52aa41b1/)
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/wordpress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/plesk-%2352bceb.svg?style=for-the-badge&logo=plesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/wordpress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/plesk-%2352bceb.svg?style=for-the-badge&logo=plesk&logoColor=white" alt="Plesk" />
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
 </p>
 
+### GitHub Stats:
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrepolatt6&show_icons=true&theme=dark)
