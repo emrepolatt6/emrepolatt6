@@ -11,7 +11,7 @@ A Customer Support Specialist and Web Hosting Expert based in Turkey.
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Website-earth?style=for-the-badge&logo=google-chrome&logoColor=white&color=blue">](https://emrepolat.tr/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/emre-polat-a52aa41b1/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/emrepolatt6)
 
 ### Languages and Tools:
 <p align="left">
