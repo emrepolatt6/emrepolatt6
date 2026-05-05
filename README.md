@@ -19,5 +19,3 @@ A Customer Support Specialist and Web Hosting Expert based in Turkey.
   <img src="https://img.shields.io/badge/plesk-%2352bceb.svg?style=for-the-badge&logo=plesk&logoColor=white" />
 </p>
 
-### GitHub Stats:
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrepolatt6&show_icons=true&theme=dark)
