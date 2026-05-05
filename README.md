@@ -2,7 +2,7 @@
 
 A Customer Support Specialist and Web Hosting Expert based in Turkey.
 
-- 🔭 I’m currently working at **Güzel Hosting** as a Level II Customer Support Specialist.
+- 🔭 I’m currently working at **Guzel Hosting** as a Level II  Support Operator.
 - 🎓 I’m a student at **Anadolu University**.
 - ⚡ **Technical Skills:** WordPress troubleshooting, Server Configuration (IIS, Plesk, cPanel), and Email Security (SPF, DKIM, DMARC).
 - 🛠 **Home Lab:** Managing home networks with **TP-Link Deco M4** mesh systems.
