@@ -2,6 +2,7 @@
 
 A Customer Support Specialist and Web Hosting Expert based in Turkey.
 
+- 🌍 **Website:** [emrepolat.tr](https://emrepolat.tr/)
 - 🔭 I’m currently working at **Güzel Hosting** as a **Level 1 Customer Support specialist**.
 - 🎓 I’m a student at **Anadolu University**.
 - ⚡ **Technical Skills:** WordPress troubleshooting, Server Configuration (IIS, Plesk, cPanel), and Email Security (SPF, DKIM, DMARC).
@@ -9,6 +10,7 @@ A Customer Support Specialist and Web Hosting Expert based in Turkey.
 - 🎮 **Hobbies:** Avid player of **FIFA (FC 23)** and **Metin2**.
 
 ### Connect with me:
+[<img src="https://img.shields.io/badge/Website-earth?style=for-the-badge&logo=google-chrome&logoColor=white&color=blue">](https://emrepolat.tr/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/emre-polat-a52aa41b1/)
 
 ### Languages and Tools:
